@@ -1,4 +1,4 @@
-# Decision Focused Analytics 2021 / 22
+# Decision-Focused Analytics 2021 / 22
 
 In this repository, you find the notebook for our BiGSEM course "Decision-Focused Analytics".
 You may either clone this repository and work locally with the notebooks, let them render here in github or open them in Google Colab.
